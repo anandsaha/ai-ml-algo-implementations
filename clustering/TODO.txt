@@ -1,0 +1,18 @@
+-----------------------------
+Clustering
+-----------------------------
+Projects:
+- Take a bunch of digits (images) and cluster them
+- Take a bunch of news items, group them into topics
+- Given a research paper, retrieve all related ones (retrieval)
+
+
+Algo Implementation:
+- Nearest Neighbours (Retrieval)
+- K-Means Clustering
+- Hierarchial Clustering
+- Mixed Model: Expectation Maximization
+- KD-Tree
+- Locality Sensitive Hashing
+
+
